@@ -1,2 +1,2 @@
 web_server_location = "westus2"
-web_server_sg = "web-rg"
+web_server_rg = "web-rg"
