@@ -18,3 +18,6 @@ variable "web_server_name" {
 variable "web_server_address_prefix" {
     type = string
 }
+variable "environment"{
+    type = string
+}
