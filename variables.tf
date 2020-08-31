@@ -11,6 +11,9 @@ variable "resource_prefix" {
 variable "web_server_address_space" {
     type = string
 }
+variable "web_server_subnets"{
+    type = map
+}
 
 variable "web_server_name" {
     type = string
